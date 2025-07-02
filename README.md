@@ -8,7 +8,7 @@ Currently pursuing a degree in BS Information Technology at Colegio de San Gabri
 - 🛠️ Building: eCDSGA — a smarter way to pay school fees  
 - 💬 Ask me about tech stacks, academic systems, and security practices  
 - 🧠 Exploring: DevOps, Cloud Hosting (Railway, Vercel), and Git workflows  
-- 📫 Reach me at: *iamraymondbauista17@gmail.com*
+- 📫 Reach me at: *iamraymondbautista17@gmail.com*
 
 ---
 
