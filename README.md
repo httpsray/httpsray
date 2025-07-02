@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋 I'm Raymond!</h1>
 
 <p align="center">
-Currently pursuing a degree in BS Information Technology at Colegio de San Gabriel Arcangel with a passion for full-stack development, open-source, and smart solutions 💡.
+Currently pursuing a degree in BS Information Technology at Colegio de San Gabriel Arcangel with a passion for full-stack development, open-source, and smart solutions 💡
 </p>
 
 - 🌱 Learning: Web Development, Node.js, MongoDB, and Secure Systems  
