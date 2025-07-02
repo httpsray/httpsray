@@ -33,7 +33,7 @@ Currently pursuing a degree in BS Information Technology at Colegio de San Gabri
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=httpsray&show_icons=true&theme=radical" alt="Monmon's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=httpsray&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=httpsray&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
