@@ -5,7 +5,7 @@ Currently pursuing a degree in BS Information Technology at Colegio de San Gabri
 </p>
 
 - 🌱 Learning: Web Development, Node.js, MongoDB, and Secure Systems  
-- 🛠️ Building: eCDSGA — a smarter way to pay school fees  
+- 🛠️ Building: HarvestHub — Bridging Farmers to Buyers Digitally
 - 💬 Ask me about tech stacks, academic systems, and security practices  
 - 🧠 Exploring: DevOps, Cloud Hosting (Railway, Vercel), and Git workflows  
 - 📫 Reach me at: *iamraymondbautista17@gmail.com*
